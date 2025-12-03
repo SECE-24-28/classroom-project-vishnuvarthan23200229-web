@@ -1,9 +1,9 @@
 import "./App.css";
-import HelloWorldComponent from "./Helloworld/hello-world-component.jsx";
+// import LeadersTodayComponent from "./Day/leaders-today-component.jsx";
+import ApliGuruComponent from "./pro 3/Apli-guru-component.jsx";
 
 function App() {
-  return (
-    <HelloWorldComponent/>
-  );
+  return <ApliGuruComponent />;
 }
+
 export default App;
